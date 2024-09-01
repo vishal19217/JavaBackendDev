@@ -1,0 +1,74 @@
+# Maven/Gradle
+target/
+out/
+!mvnw
+!mvnw.cmd
+!gradlew
+!gradlew.bat
+.mvn/
+.gradle/
+build/
+HELP.md
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+.settings/
+*.launch
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+
+
+
+# IntelliJ IDEA
+.idea/
+
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.swp
+*.tmp
+*.bak
+*.orig
+*.old
+*.lock
+*.pid
+*.gz
+
+# External libraries
+lib/
+dependency-reduced-pom.xml
